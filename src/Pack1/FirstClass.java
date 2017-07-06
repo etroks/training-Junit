@@ -5,6 +5,7 @@ package Pack1;
  */
 public class FirstClass {
     public static void main(String[] args){
-        System.out.println("ky ky");
-    }
+        Calculator calculator = new Calculator();
+        System.out.println(calculator.getSum(5, 6));
+}
 }
