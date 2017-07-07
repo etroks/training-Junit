@@ -1,4 +1,4 @@
-package Pack1;
+package pack1;
 
 /**
  * Created by etrok on 06.07.2017.
